@@ -1,0 +1,22 @@
+[
+    {
+        "id":101,
+        "BRAND":"Honda",
+        "MODEL":"Accord",
+        "PRICE":150
+    },
+
+    {
+        "id":106,
+        "BRAND":"Volvo",
+        "MODEL":"C30",
+        "PRICE":250
+    },
+
+    {
+        "id":110,
+        "BRAND":"Tesla",
+        "MODEL":"Model",
+        "PRICE":450
+    }
+]
